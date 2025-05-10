@@ -22,3 +22,68 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
    ```bash
    git clone https://github.com/Toochiiii/Centsible-Expense-Tracking-App
    cd centsible
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the app**:
+   ```bash
+   python main.py
+   ```
+
+---
+
+## 📦 Requirements
+
+Add the following to your `requirements.txt` file:
+
+```
+customtkinter
+matplotlib
+```
+
+---
+
+## 📌 Usage
+
+1. Launch the app using `main.py`
+2. Register a new account or log in with existing credentials
+3. Enter your monthly income
+4. Create budget categories (e.g., Rent, Food, Transport)
+5. Log daily transactions under each category
+6. View your spending progress in graphs and charts
+7. Read AI-generated insights to understand and improve your spending habits
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **CustomTkinter** — for modern UI design
+- **Matplotlib** — for data visualization
+- **SQLite3** — for local data storage
+- **Built-in AI Logic** — to generate simple financial insights
+
+---
+
+## 🚧 Roadmap / Future Improvements
+
+- [ ] Export data as CSV or PDF  
+- [ ] Recurring transactions  
+- [ ] Password reset feature  
+- [ ] Dark mode toggle  
+- [ ] Advanced AI budgeting tips  
+
+---
+
+## 📃 License
+
+MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙌 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
