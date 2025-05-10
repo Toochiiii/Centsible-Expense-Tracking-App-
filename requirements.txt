@@ -1,0 +1,13 @@
+# Core dependencies
+customtkinter==5.2.1  # Modern UI framework
+matplotlib==3.8.2  # Chart generation
+reportlab==4.0.4  # PDF report generation
+python-dotenv==1.0.0  # Environment variables
+
+# Data processing & utilities
+numpy==1.26.2  # Numerical operations (for matplotlib)
+pandas==2.1.3  # Data analysis 
+python-dateutil==2.8.2  # Date parsing
+
+# AI components
+together==0.2.10  # AI API client
