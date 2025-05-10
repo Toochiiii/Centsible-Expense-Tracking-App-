@@ -20,5 +20,5 @@ Centsible is a sleek and intuitive desktop expense tracker built with Python and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dev-vanessa-git/centsible.git
+   git clone https://github.com/Toochiiii/Centsible-Expense-Tracking-App
    cd centsible
