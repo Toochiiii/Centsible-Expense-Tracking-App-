@@ -1,0 +1,84 @@
+[
+  {
+    "username": "Toochi",
+    "password": "111",
+    "transactions": [
+      {
+        "id": "83778932-d6f5-4093-8728-6554461f1e05",
+        "type": "expense",
+        "category": "Food",
+        "amount": 2500.0,
+        "date": "2025-04-23",
+        "description": "",
+        "budget": 30000.0
+      },
+      {
+        "id": "969cfafd-f07f-470f-9949-95fbe9d19092",
+        "type": "expense",
+        "category": "Bills",
+        "amount": 1000.0,
+        "date": "2025-04-23",
+        "description": "",
+        "budget": 20000.0
+      },
+      {
+        "id": "b6e06360-74b0-43fa-aa79-8bc074b2e12a",
+        "type": "expense",
+        "category": "Light",
+        "amount": 20000.0,
+        "date": "2025-04-23",
+        "description": "",
+        "budget": 40000.0
+      },
+      {
+        "id": "c33c56fa-d339-412d-aaf7-27b8bcd135bd",
+        "type": "expense",
+        "category": "misc",
+        "amount": 3000.0,
+        "date": "2025-04-23",
+        "description": "",
+        "budget": 10000.0
+      }
+    ],
+    "income_sources": {
+      "Job": 100000.0
+    },
+    "expense_budgets": {
+      "Food": 30000.0,
+      "Bills": 20000.0,
+      "Light": 40000.0,
+      "misc": 10000.0
+    }
+  },
+  {
+    "username": "ella",
+    "password": "500",
+    "transactions": [
+      {
+        "id": "b7ee46f5-0a8b-4c86-839b-5a02751d5c04",
+        "type": "expense",
+        "category": "Food",
+        "amount": 3600.0,
+        "date": "2025-04-29",
+        "description": "",
+        "budget": 30000.0
+      },
+      {
+        "id": "82416b72-cd7a-4291-aa65-c9711e1037b0",
+        "type": "expense",
+        "category": "Light",
+        "amount": 800.0,
+        "date": "2025-04-29",
+        "description": "",
+        "budget": 40000.0
+      }
+    ],
+    "income_sources": {
+      "salary": 400.0
+    },
+    "expense_budgets": {
+      "Food": 30000.0,
+      "Light": 40000.0
+    }
+  }
+]
