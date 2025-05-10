@@ -60,17 +60,17 @@ matplotlib
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python**
 - **CustomTkinter** — for modern UI design
 - **Matplotlib** — for data visualization
 - **SQLite3** — for local data storage
-- **Built-in AI Logic** — to generate simple financial insights
+- **Together AI** — to generate simple financial insights
 
 ---
 
 ## 🚧 Roadmap / Future Improvements
 
-- [ ] Export data as CSV or PDF  
+- [ ] Export data as PDF  
 - [ ] Recurring transactions  
 - [ ] Password reset feature  
 - [ ] Dark mode toggle  
